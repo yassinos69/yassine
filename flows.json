@@ -1,0 +1,2995 @@
+[
+    {
+        "id": "54c3831cbf893e20",
+        "type": "tab",
+        "label": "MOBILE",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7bfb5efdf86b8035",
+        "type": "tab",
+        "label": "PC",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "048257b506051cba",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "eb58b923a30b5a2e",
+            "a5562a95c987c481",
+            "b4c03bbd30d14a2e"
+        ],
+        "x": -6,
+        "y": 19,
+        "w": 352,
+        "h": 202
+    },
+    {
+        "id": "c82b0705e286c4ac",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f4d3958c8c5e956f",
+            "c3404ac6cc26072c",
+            "4644c4a28df321ed",
+            "2fcf21ec5699a6e4"
+        ],
+        "x": 434,
+        "y": 19,
+        "w": 842,
+        "h": 82
+    },
+    {
+        "id": "95536f254ef905aa",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "98e7d1786168939d"
+        ],
+        "x": 1074,
+        "y": 119,
+        "w": 232,
+        "h": 82
+    },
+    {
+        "id": "958b33474c32352a",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a3c7d4015750999d",
+            "8411c329927ed9ee",
+            "7f9a228504423b65",
+            "e7cc3bb1f55c4a2d",
+            "b71e1adbd946783f"
+        ],
+        "x": 1034,
+        "y": 239,
+        "w": 712,
+        "h": 142
+    },
+    {
+        "id": "62d111d3e079a8fd",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e65998dcfad76311",
+            "d50428544656794c",
+            "8f7b6eb978361656",
+            "8fec6f8828cbe859",
+            "6788c24324875558",
+            "9ad9a97421ced395",
+            "ce191898a6b92afb",
+            "a9725c3f200e4a25",
+            "428a4943f28eade0",
+            "80d6cc42be109736",
+            "f47ae1d3fd718e59"
+        ],
+        "x": 118,
+        "y": 233,
+        "w": 888,
+        "h": 474
+    },
+    {
+        "id": "867534824f894142",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a0b03d11b727a48b",
+            "4992b23d74f19131",
+            "e47a795d60cc8461",
+            "4fd56ab933aee69d",
+            "11d6860a0fb6a824",
+            "6d7c87cc12ac689a",
+            "59be5637a49ce5eb",
+            "5cd15c50894a0f7e",
+            "8f664ab638815949"
+        ],
+        "x": 14,
+        "y": 779,
+        "w": 952,
+        "h": 382
+    },
+    {
+        "id": "6319d64019da9376",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "751a61b8a29505d9",
+            "8bfe9f32f10b103a",
+            "863ac671e7e997a4"
+        ],
+        "x": -6,
+        "y": 19,
+        "w": 352,
+        "h": 202
+    },
+    {
+        "id": "06b5905af8c48d76",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d936a881da07fd86",
+            "fb96af6aece0ada0",
+            "5abfa59e9cae5e19",
+            "7f155dec0eaaf59d"
+        ],
+        "x": 334,
+        "y": 19,
+        "w": 842,
+        "h": 82
+    },
+    {
+        "id": "b556a929461ad57c",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c0d25faf5f454ccf"
+        ],
+        "x": 974,
+        "y": 119,
+        "w": 232,
+        "h": 82
+    },
+    {
+        "id": "07e93e8afc416401",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f862eda5e74bb98d",
+            "72d7a5dbdf5ed681",
+            "66716648386e9456",
+            "d1c3ca64b82e744e",
+            "2723836d037ff83a"
+        ],
+        "x": 1034,
+        "y": 239,
+        "w": 712,
+        "h": 142
+    },
+    {
+        "id": "7a2f010afda50987",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5fc653ca5d41bb80",
+            "c291ab80c0462f1c",
+            "2754dbcb710599d7",
+            "b00a53268657ead7",
+            "e8e1e4aa302210d4",
+            "c6ad9d65af0f8cf6",
+            "3521b50d47411a51",
+            "895bd95a54689606",
+            "c4840d9eee370cc0",
+            "6320b49e866c1bc4",
+            "88849226728e1380"
+        ],
+        "x": 118,
+        "y": 233,
+        "w": 888,
+        "h": 474
+    },
+    {
+        "id": "a5107081bf1b91c7",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3220f4697377c2db",
+            "45245482ec6101ab",
+            "80c65f16927ed98c",
+            "435ab1cf824f0f2e",
+            "13b20ef0d04b293c",
+            "286385f03b98a01d",
+            "87f5742752401efd",
+            "b0fc6140ae242bbb",
+            "0db54bb83510b7b1"
+        ],
+        "x": 14,
+        "y": 779,
+        "w": 952,
+        "h": 382
+    },
+    {
+        "id": "428a4943f28eade0",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a41db20e70fa3af5",
+            "454e41d0104f0dfc",
+            "04eb455dc2ce9e42",
+            "16a80d40168ecc9f"
+        ],
+        "x": 144,
+        "y": 259,
+        "w": 232,
+        "h": 202
+    },
+    {
+        "id": "80d6cc42be109736",
+        "type": "group",
+        "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fc1cab415d482337",
+            "e4d6806fb0dde7ff",
+            "d4c4ca9f650564b6",
+            "27636b73448f06e5"
+        ],
+        "x": 144,
+        "y": 479,
+        "w": 232,
+        "h": 202
+    },
+    {
+        "id": "c4840d9eee370cc0",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fa7b9ec2da0e7bd3",
+            "adada75a9119c9aa",
+            "6e912d681d550f63",
+            "b3047d8827d8459e"
+        ],
+        "x": 144,
+        "y": 259,
+        "w": 232,
+        "h": 202
+    },
+    {
+        "id": "6320b49e866c1bc4",
+        "type": "group",
+        "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "791c2f51a73e14e4",
+            "c99d482e83545cc5",
+            "3494396ad4e0ea27",
+            "1c420b6a786da00a"
+        ],
+        "x": 144,
+        "y": 479,
+        "w": 232,
+        "h": 202
+    },
+    {
+        "id": "026f88ad969b57cc",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#a8c1c2",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#a8c1c2",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#a8c1c2",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#d5e1e2",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#a8c1c2",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Yassine HOME",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "false",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 12,
+                "gy": 12,
+                "cx": 12,
+                "cy": 12,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "05a6ba153aaeaaa5",
+        "type": "ui_tab",
+        "name": "Mobile",
+        "icon": "",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "6442e3a31520ea09",
+        "type": "ui_tab",
+        "name": "PC",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e9f095df4f120a52",
+        "type": "ui_tab",
+        "name": "PC",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "39b74b8ace70b8d5",
+        "type": "ui_tab",
+        "name": "Mobile",
+        "icon": "",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "4a1909b1a573d4bb",
+        "type": "ui_tab",
+        "name": "Mobile",
+        "icon": "",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "051eca8b5cdfd5eb",
+        "type": "ui_tab",
+        "name": "PC",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "072e70f8886d1a33",
+        "type": "ui_group",
+        "name": "TableG",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "77c6bf0a1df964d4",
+        "type": "ui_group",
+        "name": "Gauge",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4d3eb54e4f4f04aa",
+        "type": "ui_group",
+        "name": "Chart",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e3b59c47cdc9b7c4",
+        "type": "ui_group",
+        "name": "Valves_Start",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 5,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f7eb7770e583a77f",
+        "type": "ui_group",
+        "name": "Valve_Status",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 7,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4aab4cdd92a147cf",
+        "type": "ui_group",
+        "name": "Valves_Stop",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 6,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "90a070d401514c3f",
+        "type": "ui_group",
+        "name": "meteo",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 8,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "038b856654b9ff65",
+        "type": "ui_group",
+        "name": "Level",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "93f9829fe2fa87a6",
+        "type": "ui_group",
+        "name": "Gauge",
+        "tab": "6442e3a31520ea09",
+        "order": 1,
+        "disp": true,
+        "width": 20,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bdb3db8bae6c072b",
+        "type": "ui_group",
+        "name": "TableG",
+        "tab": "6442e3a31520ea09",
+        "order": 3,
+        "disp": true,
+        "width": 20,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4d639c9582580cb3",
+        "type": "ui_group",
+        "name": "Gauge",
+        "tab": "6442e3a31520ea09",
+        "order": 1,
+        "disp": true,
+        "width": 20,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9b2452d080fd5caa",
+        "type": "ui_group",
+        "name": "Valve_Start",
+        "tab": "6442e3a31520ea09",
+        "order": 5,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "68204a82915f4e09",
+        "type": "ui_group",
+        "name": "Valve_Status",
+        "tab": "6442e3a31520ea09",
+        "order": 7,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3df5ec1dc6c090a7",
+        "type": "ui_group",
+        "name": "Valve_Stop",
+        "tab": "6442e3a31520ea09",
+        "order": 6,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a073a90abfb0c137",
+        "type": "ui_group",
+        "name": "Meteo",
+        "tab": "6442e3a31520ea09",
+        "order": 8,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "cd8e050ee760a58d",
+        "type": "ui_group",
+        "name": "TableG",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bf8bf009c6b46840",
+        "type": "ui_group",
+        "name": "Level",
+        "tab": "6442e3a31520ea09",
+        "order": 4,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "722602974337faa1",
+        "type": "ui_group",
+        "name": "Gauge",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "557335b6da7b3601",
+        "type": "ui_group",
+        "name": "TableG",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "396c4aee098be0ea",
+        "type": "ui_group",
+        "name": "Chart",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1a874cd9c8e104b5",
+        "type": "ui_group",
+        "name": "Valves_Start",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 5,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c803b19ba680bf30",
+        "type": "ui_group",
+        "name": "Valve_Status",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 7,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e527f7517fd46334",
+        "type": "ui_group",
+        "name": "Valves_Stop",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 6,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "23f09a7d18f9a1f6",
+        "type": "ui_group",
+        "name": "meteo",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 8,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c1d4880f5d6dd072",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "9b53a6158b614f6a",
+        "type": "ui_group",
+        "name": "Level",
+        "tab": "05a6ba153aaeaaa5",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "03ce04b3edb1b23f",
+        "type": "ui_group",
+        "name": "TableG",
+        "tab": "6442e3a31520ea09",
+        "order": 3,
+        "disp": true,
+        "width": 20,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "927f397c108c8a9d",
+        "type": "ui_group",
+        "name": "Gauge",
+        "tab": "6442e3a31520ea09",
+        "order": 1,
+        "disp": true,
+        "width": 20,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "57e5fa44917e37b0",
+        "type": "ui_group",
+        "name": "Level",
+        "tab": "6442e3a31520ea09",
+        "order": 4,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e825fe56ef3f4e6c",
+        "type": "ui_group",
+        "name": "Valve_Status",
+        "tab": "6442e3a31520ea09",
+        "order": 7,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "68250a91e0ec9c73",
+        "type": "ui_group",
+        "name": "Valve_Start",
+        "tab": "6442e3a31520ea09",
+        "order": 5,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6a3b60325e2e5dcb",
+        "type": "ui_group",
+        "name": "Valve_Stop",
+        "tab": "6442e3a31520ea09",
+        "order": 6,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "07746b6cf3a22f84",
+        "type": "ui_group",
+        "name": "Meteo",
+        "tab": "6442e3a31520ea09",
+        "order": 8,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f967f10aec5e0bd3",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 2,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "4357d2b62df4f2ea",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "a12c74058457ac91",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 6,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "05581dc73159aa40",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 8,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "f7be30bf49b48336",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 10,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "5ff0ecb7fc411d01",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 12,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "6cec397475d36bb4",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 14,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "e0082721be4b616d",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 16,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "5134e3e67a5f447f",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "93f9829fe2fa87a6",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "b2393784737f63bd",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "93f9829fe2fa87a6",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e115de51a48061a5",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "93f9829fe2fa87a6",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "245aaa8609d229b9",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "93f9829fe2fa87a6",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c3404ac6cc26072c",
+        "type": "inject",
+        "z": "54c3831cbf893e20",
+        "g": "c82b0705e286c4ac",
+        "name": "start",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 530,
+        "y": 60,
+        "wires": [
+            [
+                "4644c4a28df321ed"
+            ]
+        ]
+    },
+    {
+        "id": "a0b03d11b727a48b",
+        "type": "http request",
+        "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Tanger&appid=3587c4f12921a51e720ebee114efa02b&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 290,
+        "y": 820,
+        "wires": [
+            [
+                "4992b23d74f19131",
+                "4fd56ab933aee69d",
+                "11d6860a0fb6a824",
+                "6d7c87cc12ac689a",
+                "59be5637a49ce5eb"
+            ]
+        ]
+    },
+    {
+        "id": "4992b23d74f19131",
+        "type": "debug",
+        "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
+        "name": "debug 2",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 460,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "e47a795d60cc8461",
+        "type": "inject",
+        "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1800",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 820,
+        "wires": [
+            [
+                "a0b03d11b727a48b"
+            ]
+        ]
+    },
+    {
+        "id": "4fd56ab933aee69d",
+        "type": "debug",
+        "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
+        "name": "debug 3",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload.main.temp_min",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 460,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "a3c7d4015750999d",
+        "type": "template",
+        "z": "54c3831cbf893e20",
+        "g": "958b33474c32352a",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!--\nCreated using JS Bin\nhttp://jsbin.com\n\nCopyright (c) 2022 by anonymous (http://jsbin.com/nawupuceru/1/edit)\n\nReleased under the MIT license: http://jsbin.mit-license.org\n-->\n<meta name=\"robots\" content=\"noindex\">\n<link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css\" rel=\"stylesheet\" id=\"bootstrap-css\">\n<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\n<!------ Include the above in your HEAD tag ---------->\n\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Login Page</title>\n   <!--Made with love by Mutiullah Samim -->\n   \n\t<!--Bootsrap 4 CDN-->\n\t<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">\n    \n    <!--Fontawesome CDN-->\n\t<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.3.1/css/all.css\" integrity=\"sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU\" crossorigin=\"anonymous\">\n\n\t<!--Custom styles-->\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\">\n<style id=\"jsbin-css\">\n/* Made with love by Mutiullah Samim*/\n\n@import url('https://fonts.googleapis.com/css?family=Numans');\n\nhtml,body{\nbackground-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');\nbackground-size: cover;\nbackground-repeat: no-repeat;\nheight: 100%;\nfont-family: 'Numans', sans-serif;\n}\n\n.container{\nheight: 100%;\nalign-content: center;\n}\n\n.card{\nheight: 370px;\nmargin-top: auto;\nmargin-bottom: auto;\nwidth: 400px;\nbackground-color: rgba(0,0,0,0.5) !important;\n}\n\n.social_icon span{\nfont-size: 60px;\nmargin-left: 10px;\ncolor: #FFC312;\n}\n\n.social_icon span:hover{\ncolor: white;\ncursor: pointer;\n}\n\n.card-header h3{\ncolor: white;\n}\n\n.social_icon{\nposition: absolute;\nright: 20px;\ntop: -45px;\n}\n\n.input-group-prepend span{\nwidth: 50px;\nbackground-color: #FFC312;\ncolor: black;\nborder:0 !important;\n}\n\ninput:focus{\noutline: 0 0 0 0  !important;\nbox-shadow: 0 0 0 0 !important;\n\n}\n\n.remember{\ncolor: white;\n}\n\n.remember input\n{\nwidth: 20px;\nheight: 20px;\nmargin-left: 15px;\nmargin-right: 5px;\n}\n\n.login_btn{\ncolor: black;\nbackground-color: #FFC312;\nwidth: 100px;\n}\n\n.login_btn:hover{\ncolor: black;\nbackground-color: white;\n}\n\n.links{\ncolor: white;\n}\n\n.links a{\nmargin-left: 4px;\n}\n</style>\n</head>\n<body>\n<div class=\"container\">\n\t<div class=\"d-flex justify-content-center h-100\">\n\t\t<div class=\"card\">\n\t\t\t<div class=\"card-header\">\n\t\t\t\t<h3>Sign In</h3>\n\t\t\t\t<div class=\"d-flex justify-content-end social_icon\">\n\t\t\t\t\t<span><i class=\"fab fa-facebook-square\"></i></span>\n\t\t\t\t\t<span><i class=\"fab fa-google-plus-square\"></i></span>\n\t\t\t\t\t<span><i class=\"fab fa-twitter-square\"></i></span>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"card-body\">\n\t\t\t\t<form>\n\t\t\t\t\t<div class=\"input-group form-group\">\n\t\t\t\t\t\t<div class=\"input-group-prepend\">\n\t\t\t\t\t\t\t<span class=\"input-group-text\"><i class=\"fas fa-user\"></i></span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" placeholder=\"username\">\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"input-group form-group\">\n\t\t\t\t\t\t<div class=\"input-group-prepend\">\n\t\t\t\t\t\t\t<span class=\"input-group-text\"><i class=\"fas fa-key\"></i></span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<input type=\"password\" class=\"form-control\" placeholder=\"password\">\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"row align-items-center remember\">\n\t\t\t\t\t\t<input type=\"checkbox\">Remember Me\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t<input type=\"submit\" value=\"Login\" class=\"btn float-right login_btn\">\n\t\t\t\t\t</div>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\t<div class=\"card-footer\">\n\t\t\t\t<div class=\"d-flex justify-content-center links\">\n\t\t\t\t\tDon't have an account?<a href=\"#\">Sign Up</a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"d-flex justify-content-center\">\n\t\t\t\t\t<a href=\"#\">Forgot your password?</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</body>\n</html>",
+        "output": "str",
+        "x": 1380,
+        "y": 280,
+        "wires": [
+            [
+                "7f9a228504423b65",
+                "e7cc3bb1f55c4a2d"
+            ]
+        ]
+    },
+    {
+        "id": "8411c329927ed9ee",
+        "type": "http in",
+        "z": "54c3831cbf893e20",
+        "g": "958b33474c32352a",
+        "name": "",
+        "url": "/yassine",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 1130,
+        "y": 280,
+        "wires": [
+            [
+                "a3c7d4015750999d"
+            ]
+        ]
+    },
+    {
+        "id": "7f9a228504423b65",
+        "type": "http response",
+        "z": "54c3831cbf893e20",
+        "g": "958b33474c32352a",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1630,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "e7cc3bb1f55c4a2d",
+        "type": "debug",
+        "z": "54c3831cbf893e20",
+        "g": "958b33474c32352a",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1640,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "b71e1adbd946783f",
+        "type": "comment",
+        "z": "54c3831cbf893e20",
+        "g": "958b33474c32352a",
+        "name": "A custom page on IP/1880/yassine",
+        "info": "",
+        "x": 1200,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "f47ae1d3fd718e59",
+        "type": "comment",
+        "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
+        "name": "Start / Stop Vales + Stats",
+        "info": "",
+        "x": 870,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "8f664ab638815949",
+        "type": "comment",
+        "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
+        "name": "Get the Weather Json and display it !",
+        "info": "",
+        "x": 800,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "949b98bafbc38166",
+        "type": "comment",
+        "z": "54c3831cbf893e20",
+        "name": "CSS for the Dashboard",
+        "info": "",
+        "x": 1160,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "a41db20e70fa3af5",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "e3b59c47cdc9b7c4",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 300,
+        "wires": [
+            [
+                "e65998dcfad76311"
+            ]
+        ]
+    },
+    {
+        "id": "454e41d0104f0dfc",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "e3b59c47cdc9b7c4",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 340,
+        "wires": [
+            [
+                "8f7b6eb978361656"
+            ]
+        ]
+    },
+    {
+        "id": "04eb455dc2ce9e42",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "e3b59c47cdc9b7c4",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 380,
+        "wires": [
+            [
+                "d50428544656794c"
+            ]
+        ]
+    },
+    {
+        "id": "16a80d40168ecc9f",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "e3b59c47cdc9b7c4",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 420,
+        "wires": [
+            [
+                "8fec6f8828cbe859"
+            ]
+        ]
+    },
+    {
+        "id": "fc1cab415d482337",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "4aab4cdd92a147cf",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 520,
+        "wires": [
+            [
+                "e65998dcfad76311"
+            ]
+        ]
+    },
+    {
+        "id": "e4d6806fb0dde7ff",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "4aab4cdd92a147cf",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 560,
+        "wires": [
+            [
+                "8f7b6eb978361656"
+            ]
+        ]
+    },
+    {
+        "id": "d4c4ca9f650564b6",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "4aab4cdd92a147cf",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 600,
+        "wires": [
+            [
+                "d50428544656794c"
+            ]
+        ]
+    },
+    {
+        "id": "27636b73448f06e5",
+        "type": "ui_button",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "4aab4cdd92a147cf",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 640,
+        "wires": [
+            [
+                "8fec6f8828cbe859"
+            ]
+        ]
+    },
+    {
+        "id": "a5562a95c987c481",
+        "type": "ui_switch",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "label": "<font size =5 color=white><b>Aut / Man</b>",
+        "tooltip": "",
+        "group": "072e70f8886d1a33",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 230,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b4c03bbd30d14a2e",
+        "type": "ui_slider",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "label": "slider",
+        "tooltip": "",
+        "group": "072e70f8886d1a33",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 110,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "eb58b923a30b5a2e",
+        "type": "ui_numeric",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "label": "Set Point",
+        "tooltip": "",
+        "group": "072e70f8886d1a33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "wrap": false,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 120,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "11d6860a0fb6a824",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "90a070d401514c3f",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "<i class=\"fa fa-thermometer-full\" aria-hidden=\"true\"></i>     Temp :",
+        "format": "{{payload.main.temp_min}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 650,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "6d7c87cc12ac689a",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "90a070d401514c3f",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "<i class=\"wi wi-darksky-wind\"></i> Wind speed (m/s):",
+        "format": "{{payload.wind.speed}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 620,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "59be5637a49ce5eb",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "90a070d401514c3f",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "<i class=\"wi wi-darksky-clear-day\"></i> Sun :",
+        "format": "{{payload.weather[0].description}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 590,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "5cd15c50894a0f7e",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "90a070d401514c3f",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Meteo in : Tangier",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 510,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "6788c24324875558",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "f7eb7770e583a77f",
+        "order": 13,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4>    Valve-1",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "<style>  font-size: 40px; </style>",
+        "x": 880,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "9ad9a97421ced395",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "f7eb7770e583a77f",
+        "order": 5,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4> Valve-4",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 880,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "ce191898a6b92afb",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "f7eb7770e583a77f",
+        "order": 1,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4> Valve-3",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 880,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "a9725c3f200e4a25",
+        "type": "ui_text",
+        "z": "54c3831cbf893e20",
+        "group": "f7eb7770e583a77f",
+        "order": 9,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4> Valve-2",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 880,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "f4d3958c8c5e956f",
+        "type": "ui_gauge",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "77c6bf0a1df964d4",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "<i class=\"fa fa-thermometer-quarter\" aria-hidden=\"true\"></i> Temp",
+        "label": "° C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "70",
+        "seg2": "90",
+        "className": "",
+        "x": 1160,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "3769b4fb4f7219a3",
+        "type": "ui_gauge",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "038b856654b9ff65",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "wave",
+        "title": "<i class=\"fa fa-tint\" aria-hidden=\"true\"></i>  Water Tank",
+        "label": "M",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "60",
+        "seg2": "80",
+        "className": "",
+        "x": 905,
+        "y": 180,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "98e7d1786168939d",
+        "type": "ui_chart",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "group": "4d3eb54e4f4f04aa",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "<i class=\"fa fa-bar-chart\" aria-hidden=\"true\"></i>    Records",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "bezier",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#eeff00",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1190,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7ea25eebe2e69102",
+        "type": "ui_template",
+        "z": "54c3831cbf893e20",
+        "group": "072e70f8886d1a33",
+        "name": "",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "format": "<div ng-bind-html=\"msg.payload\"></div>\n<style>\n.nr-dashboard-theme .nr-dashboard-button .md-button {\nbackground-color: #3bac6c;\nborder-radius: 10px;\ncolor: white;\nwidth: 70%;\nheight:70%;\nmargin-left: 15%;\n}\n\n\n.nr-dashboard-theme ui-card-panel {\nborder : none ;\nborder-radius: 10px;\n}\n\nbody.nr-dashboard-theme md-toolbar {\nbackground-color: rgb(121 138 165);\n}\n\ndiv.led_186.led_contents {\nmin-height: 40px;\nmin-width: 40px;\nheight: 40px;\nwidth: 40px;\nmax-height: 40px;\nmax-width: 40px;\ntext-align: center;\nmargin: 11px;\nborder-radius: 50%;\n}\n\nbody.nr-dashboard-theme {\nbackground-color: #a8c1c2bd;\n\n}\n\nbody.nr-dashboard-theme md-content md-card {\nborder-radius: 10px;\n\n}\n\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1200,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e65998dcfad76311",
+        "type": "ui_led",
+        "z": "54c3831cbf893e20",
+        "order": 3,
+        "group": "f7eb7770e583a77f",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "right",
+        "labelAlignment": "right",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V1",
+        "x": 690,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "d50428544656794c",
+        "type": "ui_led",
+        "z": "54c3831cbf893e20",
+        "order": 11,
+        "group": "f7eb7770e583a77f",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V3",
+        "x": 690,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "8f7b6eb978361656",
+        "type": "ui_led",
+        "z": "54c3831cbf893e20",
+        "order": 7,
+        "group": "f7eb7770e583a77f",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V2",
+        "x": 690,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "8fec6f8828cbe859",
+        "type": "ui_led",
+        "z": "54c3831cbf893e20",
+        "order": 15,
+        "group": "f7eb7770e583a77f",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V4",
+        "x": 690,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "4644c4a28df321ed",
+        "type": "event",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "controlTopic": "control",
+        "startCmd": "start",
+        "stopCmd": "stop",
+        "distribution": "uniform",
+        "expMeanInterval": 1,
+        "minInterval": "3",
+        "maxInterval": "6",
+        "gaussMeanInterval": 1,
+        "stdDev": 1,
+        "outputTopic": "event",
+        "outputPayload": "",
+        "outputPayloadType": "date",
+        "maxEventCount": 0,
+        "x": 650,
+        "y": 60,
+        "wires": [
+            [
+                "2fcf21ec5699a6e4"
+            ]
+        ]
+    },
+    {
+        "id": "2fcf21ec5699a6e4",
+        "type": "random",
+        "z": "54c3831cbf893e20",
+        "name": "",
+        "low": 1,
+        "high": "100",
+        "inte": "true",
+        "property": "payload",
+        "x": 800,
+        "y": 60,
+        "wires": [
+            [
+                "f4d3958c8c5e956f",
+                "98e7d1786168939d",
+                "3769b4fb4f7219a3"
+            ]
+        ]
+    },
+    {
+        "id": "fb96af6aece0ada0",
+        "type": "inject",
+        "z": "7bfb5efdf86b8035",
+        "g": "06b5905af8c48d76",
+        "name": "start",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "start",
+        "payloadType": "str",
+        "x": 430,
+        "y": 60,
+        "wires": [
+            [
+                "5abfa59e9cae5e19"
+            ]
+        ]
+    },
+    {
+        "id": "3220f4697377c2db",
+        "type": "http request",
+        "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Tanger&appid=3587c4f12921a51e720ebee114efa02b&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 290,
+        "y": 820,
+        "wires": [
+            [
+                "45245482ec6101ab",
+                "435ab1cf824f0f2e",
+                "13b20ef0d04b293c",
+                "286385f03b98a01d",
+                "87f5742752401efd"
+            ]
+        ]
+    },
+    {
+        "id": "45245482ec6101ab",
+        "type": "debug",
+        "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
+        "name": "debug 2",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 460,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "80c65f16927ed98c",
+        "type": "inject",
+        "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1800",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 820,
+        "wires": [
+            [
+                "3220f4697377c2db"
+            ]
+        ]
+    },
+    {
+        "id": "435ab1cf824f0f2e",
+        "type": "debug",
+        "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
+        "name": "debug 3",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload.main.temp_min",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 460,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "f862eda5e74bb98d",
+        "type": "template",
+        "z": "7bfb5efdf86b8035",
+        "g": "07e93e8afc416401",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!--\nCreated using JS Bin\nhttp://jsbin.com\n\nCopyright (c) 2022 by anonymous (http://jsbin.com/nawupuceru/1/edit)\n\nReleased under the MIT license: http://jsbin.mit-license.org\n-->\n<meta name=\"robots\" content=\"noindex\">\n<link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css\" rel=\"stylesheet\" id=\"bootstrap-css\">\n<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\n<!------ Include the above in your HEAD tag ---------->\n\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Login Page</title>\n   <!--Made with love by Mutiullah Samim -->\n   \n\t<!--Bootsrap 4 CDN-->\n\t<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">\n    \n    <!--Fontawesome CDN-->\n\t<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.3.1/css/all.css\" integrity=\"sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU\" crossorigin=\"anonymous\">\n\n\t<!--Custom styles-->\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\">\n<style id=\"jsbin-css\">\n/* Made with love by Mutiullah Samim*/\n\n@import url('https://fonts.googleapis.com/css?family=Numans');\n\nhtml,body{\nbackground-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');\nbackground-size: cover;\nbackground-repeat: no-repeat;\nheight: 100%;\nfont-family: 'Numans', sans-serif;\n}\n\n.container{\nheight: 100%;\nalign-content: center;\n}\n\n.card{\nheight: 370px;\nmargin-top: auto;\nmargin-bottom: auto;\nwidth: 400px;\nbackground-color: rgba(0,0,0,0.5) !important;\n}\n\n.social_icon span{\nfont-size: 60px;\nmargin-left: 10px;\ncolor: #FFC312;\n}\n\n.social_icon span:hover{\ncolor: white;\ncursor: pointer;\n}\n\n.card-header h3{\ncolor: white;\n}\n\n.social_icon{\nposition: absolute;\nright: 20px;\ntop: -45px;\n}\n\n.input-group-prepend span{\nwidth: 50px;\nbackground-color: #FFC312;\ncolor: black;\nborder:0 !important;\n}\n\ninput:focus{\noutline: 0 0 0 0  !important;\nbox-shadow: 0 0 0 0 !important;\n\n}\n\n.remember{\ncolor: white;\n}\n\n.remember input\n{\nwidth: 20px;\nheight: 20px;\nmargin-left: 15px;\nmargin-right: 5px;\n}\n\n.login_btn{\ncolor: black;\nbackground-color: #FFC312;\nwidth: 100px;\n}\n\n.login_btn:hover{\ncolor: black;\nbackground-color: white;\n}\n\n.links{\ncolor: white;\n}\n\n.links a{\nmargin-left: 4px;\n}\n</style>\n</head>\n<body>\n<div class=\"container\">\n\t<div class=\"d-flex justify-content-center h-100\">\n\t\t<div class=\"card\">\n\t\t\t<div class=\"card-header\">\n\t\t\t\t<h3>Sign In</h3>\n\t\t\t\t<div class=\"d-flex justify-content-end social_icon\">\n\t\t\t\t\t<span><i class=\"fab fa-facebook-square\"></i></span>\n\t\t\t\t\t<span><i class=\"fab fa-google-plus-square\"></i></span>\n\t\t\t\t\t<span><i class=\"fab fa-twitter-square\"></i></span>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"card-body\">\n\t\t\t\t<form>\n\t\t\t\t\t<div class=\"input-group form-group\">\n\t\t\t\t\t\t<div class=\"input-group-prepend\">\n\t\t\t\t\t\t\t<span class=\"input-group-text\"><i class=\"fas fa-user\"></i></span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" placeholder=\"username\">\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"input-group form-group\">\n\t\t\t\t\t\t<div class=\"input-group-prepend\">\n\t\t\t\t\t\t\t<span class=\"input-group-text\"><i class=\"fas fa-key\"></i></span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<input type=\"password\" class=\"form-control\" placeholder=\"password\">\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"row align-items-center remember\">\n\t\t\t\t\t\t<input type=\"checkbox\">Remember Me\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t<input type=\"submit\" value=\"Login\" class=\"btn float-right login_btn\">\n\t\t\t\t\t</div>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\t<div class=\"card-footer\">\n\t\t\t\t<div class=\"d-flex justify-content-center links\">\n\t\t\t\t\tDon't have an account?<a href=\"#\">Sign Up</a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"d-flex justify-content-center\">\n\t\t\t\t\t<a href=\"#\">Forgot your password?</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</body>\n</html>",
+        "output": "str",
+        "x": 1380,
+        "y": 280,
+        "wires": [
+            [
+                "66716648386e9456",
+                "d1c3ca64b82e744e"
+            ]
+        ]
+    },
+    {
+        "id": "72d7a5dbdf5ed681",
+        "type": "http in",
+        "z": "7bfb5efdf86b8035",
+        "g": "07e93e8afc416401",
+        "name": "",
+        "url": "/yassine",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 1130,
+        "y": 280,
+        "wires": [
+            [
+                "f862eda5e74bb98d"
+            ]
+        ]
+    },
+    {
+        "id": "66716648386e9456",
+        "type": "http response",
+        "z": "7bfb5efdf86b8035",
+        "g": "07e93e8afc416401",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1630,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "d1c3ca64b82e744e",
+        "type": "debug",
+        "z": "7bfb5efdf86b8035",
+        "g": "07e93e8afc416401",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1640,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "2723836d037ff83a",
+        "type": "comment",
+        "z": "7bfb5efdf86b8035",
+        "g": "07e93e8afc416401",
+        "name": "A custom page on IP/1880/yassine",
+        "info": "",
+        "x": 1200,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "88849226728e1380",
+        "type": "comment",
+        "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
+        "name": "Start / Stop Vales + Stats",
+        "info": "",
+        "x": 870,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "0db54bb83510b7b1",
+        "type": "comment",
+        "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
+        "name": "Get the Weather Json and display it !",
+        "info": "",
+        "x": 800,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "2b4ea6c169165c3c",
+        "type": "comment",
+        "z": "7bfb5efdf86b8035",
+        "name": "CSS for the Dashboard",
+        "info": "",
+        "x": 1160,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "fa7b9ec2da0e7bd3",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "08b2a710dc7a5bed",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 300,
+        "wires": [
+            [
+                "5fc653ca5d41bb80"
+            ]
+        ]
+    },
+    {
+        "id": "adada75a9119c9aa",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "08b2a710dc7a5bed",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 340,
+        "wires": [
+            [
+                "2754dbcb710599d7"
+            ]
+        ]
+    },
+    {
+        "id": "6e912d681d550f63",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "08b2a710dc7a5bed",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 380,
+        "wires": [
+            [
+                "c291ab80c0462f1c"
+            ]
+        ]
+    },
+    {
+        "id": "b3047d8827d8459e",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "08b2a710dc7a5bed",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-play\" aria-hidden=\"true\"></i>     Open V-4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(59, 205, 63, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 420,
+        "wires": [
+            [
+                "b00a53268657ead7"
+            ]
+        ]
+    },
+    {
+        "id": "791c2f51a73e14e4",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "698560b55b175a4a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 520,
+        "wires": [
+            [
+                "5fc653ca5d41bb80"
+            ]
+        ]
+    },
+    {
+        "id": "c99d482e83545cc5",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "698560b55b175a4a",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 560,
+        "wires": [
+            [
+                "2754dbcb710599d7"
+            ]
+        ]
+    },
+    {
+        "id": "3494396ad4e0ea27",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "698560b55b175a4a",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 600,
+        "wires": [
+            [
+                "c291ab80c0462f1c"
+            ]
+        ]
+    },
+    {
+        "id": "1c420b6a786da00a",
+        "type": "ui_button",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "698560b55b175a4a",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "<i class=\"fa fa-stop\" aria-hidden=\"true\"></i>     Close V-4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgba(219, 45, 45, 0.8)",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 640,
+        "wires": [
+            [
+                "b00a53268657ead7"
+            ]
+        ]
+    },
+    {
+        "id": "8bfe9f32f10b103a",
+        "type": "ui_switch",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "label": "<font size =5 color=white><b>Aut / Man</b>",
+        "tooltip": "",
+        "group": "bddcf84c8b66c1b0",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 230,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "863ac671e7e997a4",
+        "type": "ui_slider",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "label": "slider",
+        "tooltip": "",
+        "group": "bddcf84c8b66c1b0",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 110,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "751a61b8a29505d9",
+        "type": "ui_numeric",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "label": "Set Point",
+        "tooltip": "",
+        "group": "bddcf84c8b66c1b0",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "wrap": false,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 120,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "13b20ef0d04b293c",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "19dac09a655d1c2b",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "<i class=\"fa fa-thermometer-full\" aria-hidden=\"true\"></i>     Temp :",
+        "format": "{{payload.main.temp_min}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 650,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "286385f03b98a01d",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "19dac09a655d1c2b",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "<i class=\"wi wi-darksky-wind\"></i> Wind speed (m/s):",
+        "format": "{{payload.wind.speed}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 620,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "87f5742752401efd",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "19dac09a655d1c2b",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "<i class=\"wi wi-darksky-clear-day\"></i> Sun :",
+        "format": "{{payload.weather[0].description}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 590,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "b0fc6140ae242bbb",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "19dac09a655d1c2b",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Meteo in : Tangier",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 510,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "e8e1e4aa302210d4",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "b7a0275975da3cea",
+        "order": 5,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4>    Valve-1",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "<style>  font-size: 40px; </style>",
+        "x": 880,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "c6ad9d65af0f8cf6",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "b7a0275975da3cea",
+        "order": 8,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4> Valve-4",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 880,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "3521b50d47411a51",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "b7a0275975da3cea",
+        "order": 7,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4> Valve-3",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 880,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "895bd95a54689606",
+        "type": "ui_text",
+        "z": "7bfb5efdf86b8035",
+        "group": "b7a0275975da3cea",
+        "order": 6,
+        "width": 2,
+        "height": 2,
+        "name": "",
+        "label": "<font size = 4> Valve-2",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 880,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "d936a881da07fd86",
+        "type": "ui_gauge",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "93f9829fe2fa87a6",
+        "order": 1,
+        "width": 19,
+        "height": 4,
+        "gtype": "gage",
+        "title": "<i class=\"fa fa-thermometer-quarter\" aria-hidden=\"true\"></i> Temp",
+        "label": "° C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "70",
+        "seg2": "90",
+        "className": "",
+        "x": 1060,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "3fa79b10dd380d83",
+        "type": "ui_gauge",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "7feeb002e9127137",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "wave",
+        "title": "<i class=\"fa fa-tint\" aria-hidden=\"true\"></i>  Water Tank",
+        "label": "M",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "60",
+        "seg2": "80",
+        "className": "level",
+        "x": 755,
+        "y": 200,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "c0d25faf5f454ccf",
+        "type": "ui_chart",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "group": "93f9829fe2fa87a6",
+        "order": 6,
+        "width": 20,
+        "height": 4,
+        "label": "<i class=\"fa fa-bar-chart\" aria-hidden=\"true\"></i>    Records",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "bezier",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#eeff00",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1090,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0c9d6013c572b54f",
+        "type": "ui_template",
+        "z": "7bfb5efdf86b8035",
+        "group": "072e70f8886d1a33",
+        "name": "",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "format": "<div ng-bind-html=\"msg.payload\"></div>\n<style>\n.nr-dashboard-theme .nr-dashboard-button .md-button {\nbackground-color: #3bac6c;\nborder-radius: 10px;\ncolor: white;\nwidth: 70%;\nheight:70%;\nmargin-left: 15%;\n}\n\n\n.nr-dashboard-theme ui-card-panel {\nborder : none ;\nborder-radius: 10px;\n}\n\nbody.nr-dashboard-theme md-toolbar {\nbackground-color: rgb(121 138 165);\n}\n\ndiv.led_186.led_contents {\nmin-height: 40px;\nmin-width: 40px;\nheight: 40px;\nwidth: 40px;\nmax-height: 40px;\nmax-width: 40px;\ntext-align: center;\nmargin: 11px;\nborder-radius: 50%;\n}\n\nbody.nr-dashboard-theme {\nbackground-color: #a8c1c2bd;\n\n}\n\nbody.nr-dashboard-theme md-content md-card {\nborder-radius: 10px;\n\n}\n\ncircle {\nfill: #1c87c9;\n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1200,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5fc653ca5d41bb80",
+        "type": "ui_led",
+        "z": "7bfb5efdf86b8035",
+        "order": 1,
+        "group": "b7a0275975da3cea",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "right",
+        "labelAlignment": "right",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V1",
+        "x": 690,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "c291ab80c0462f1c",
+        "type": "ui_led",
+        "z": "7bfb5efdf86b8035",
+        "order": 3,
+        "group": "b7a0275975da3cea",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V3",
+        "x": 690,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "2754dbcb710599d7",
+        "type": "ui_led",
+        "z": "7bfb5efdf86b8035",
+        "order": 2,
+        "group": "b7a0275975da3cea",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V2",
+        "x": 690,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "b00a53268657ead7",
+        "type": "ui_led",
+        "z": "7bfb5efdf86b8035",
+        "order": 4,
+        "group": "b7a0275975da3cea",
+        "width": 2,
+        "height": 2,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#00ff00",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": false,
+        "name": "V4",
+        "x": 690,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "5abfa59e9cae5e19",
+        "type": "event",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "controlTopic": "control",
+        "startCmd": "start",
+        "stopCmd": "stop",
+        "distribution": "uniform",
+        "expMeanInterval": 1,
+        "minInterval": "3",
+        "maxInterval": "6",
+        "gaussMeanInterval": 1,
+        "stdDev": 1,
+        "outputTopic": "event",
+        "outputPayload": "",
+        "outputPayloadType": "date",
+        "maxEventCount": 0,
+        "x": 550,
+        "y": 60,
+        "wires": [
+            [
+                "7f155dec0eaaf59d"
+            ]
+        ]
+    },
+    {
+        "id": "7f155dec0eaaf59d",
+        "type": "random",
+        "z": "7bfb5efdf86b8035",
+        "name": "",
+        "low": 1,
+        "high": "100",
+        "inte": "true",
+        "property": "payload",
+        "x": 700,
+        "y": 60,
+        "wires": [
+            [
+                "d936a881da07fd86",
+                "c0d25faf5f454ccf",
+                "3fa79b10dd380d83"
+            ]
+        ]
+    }
+]
