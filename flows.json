@@ -33,9 +33,9 @@
             "a5562a95c987c481",
             "b4c03bbd30d14a2e"
         ],
-        "x": -6,
+        "x": 34,
         "y": 19,
-        "w": 352,
+        "w": 392,
         "h": 202
     },
     {
@@ -59,7 +59,7 @@
         ],
         "x": 434,
         "y": 19,
-        "w": 842,
+        "w": 992,
         "h": 82
     },
     {
@@ -78,9 +78,9 @@
         "nodes": [
             "98e7d1786168939d"
         ],
-        "x": 1074,
+        "x": 954,
         "y": 119,
-        "w": 232,
+        "w": 472,
         "h": 82
     },
     {
@@ -134,9 +134,9 @@
             "80d6cc42be109736",
             "f47ae1d3fd718e59"
         ],
-        "x": 118,
+        "x": 8,
         "y": 233,
-        "w": 888,
+        "w": 998,
         "h": 474
     },
     {
@@ -187,9 +187,7 @@
             "863ac671e7e997a4"
         ],
         "x": -6,
-        "y": 19,
-        "w": 352,
-        "h": 202
+        "y": 19
     },
     {
         "id": "06b5905af8c48d76",
@@ -211,9 +209,7 @@
             "7f155dec0eaaf59d"
         ],
         "x": 334,
-        "y": 19,
-        "w": 842,
-        "h": 82
+        "y": 19
     },
     {
         "id": "b556a929461ad57c",
@@ -232,9 +228,7 @@
             "c0d25faf5f454ccf"
         ],
         "x": 974,
-        "y": 119,
-        "w": 232,
-        "h": 82
+        "y": 119
     },
     {
         "id": "07e93e8afc416401",
@@ -257,9 +251,7 @@
             "2723836d037ff83a"
         ],
         "x": 1034,
-        "y": 239,
-        "w": 712,
-        "h": 142
+        "y": 239
     },
     {
         "id": "7a2f010afda50987",
@@ -288,9 +280,7 @@
             "88849226728e1380"
         ],
         "x": 118,
-        "y": 233,
-        "w": 888,
-        "h": 474
+        "y": 233
     },
     {
         "id": "a5107081bf1b91c7",
@@ -317,9 +307,7 @@
             "0db54bb83510b7b1"
         ],
         "x": 14,
-        "y": 779,
-        "w": 952,
-        "h": 382
+        "y": 779
     },
     {
         "id": "428a4943f28eade0",
@@ -341,9 +329,9 @@
             "04eb455dc2ce9e42",
             "16a80d40168ecc9f"
         ],
-        "x": 144,
+        "x": 34,
         "y": 259,
-        "w": 232,
+        "w": 452,
         "h": 202
     },
     {
@@ -366,9 +354,9 @@
             "d4c4ca9f650564b6",
             "27636b73448f06e5"
         ],
-        "x": 144,
+        "x": 34,
         "y": 479,
-        "w": 232,
+        "w": 452,
         "h": 202
     },
     {
@@ -392,9 +380,7 @@
             "b3047d8827d8459e"
         ],
         "x": 144,
-        "y": 259,
-        "w": 232,
-        "h": 202
+        "y": 259
     },
     {
         "id": "6320b49e866c1bc4",
@@ -417,9 +403,7 @@
             "1c420b6a786da00a"
         ],
         "x": 144,
-        "y": 479,
-        "w": 232,
-        "h": 202
+        "y": 479
     },
     {
         "id": "026f88ad969b57cc",
@@ -1295,6 +1279,7 @@
         "id": "a41db20e70fa3af5",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "428a4943f28eade0",
         "name": "",
         "group": "e3b59c47cdc9b7c4",
         "order": 1,
@@ -1323,6 +1308,7 @@
         "id": "454e41d0104f0dfc",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "428a4943f28eade0",
         "name": "",
         "group": "e3b59c47cdc9b7c4",
         "order": 2,
@@ -1351,6 +1337,7 @@
         "id": "04eb455dc2ce9e42",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "428a4943f28eade0",
         "name": "",
         "group": "e3b59c47cdc9b7c4",
         "order": 3,
@@ -1379,6 +1366,7 @@
         "id": "16a80d40168ecc9f",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "428a4943f28eade0",
         "name": "",
         "group": "e3b59c47cdc9b7c4",
         "order": 4,
@@ -1407,6 +1395,7 @@
         "id": "fc1cab415d482337",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "80d6cc42be109736",
         "name": "",
         "group": "4aab4cdd92a147cf",
         "order": 1,
@@ -1435,6 +1424,7 @@
         "id": "e4d6806fb0dde7ff",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "80d6cc42be109736",
         "name": "",
         "group": "4aab4cdd92a147cf",
         "order": 2,
@@ -1463,6 +1453,7 @@
         "id": "d4c4ca9f650564b6",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "80d6cc42be109736",
         "name": "",
         "group": "4aab4cdd92a147cf",
         "order": 3,
@@ -1491,6 +1482,7 @@
         "id": "27636b73448f06e5",
         "type": "ui_button",
         "z": "54c3831cbf893e20",
+        "g": "80d6cc42be109736",
         "name": "",
         "group": "4aab4cdd92a147cf",
         "order": 4,
@@ -1519,6 +1511,7 @@
         "id": "a5562a95c987c481",
         "type": "ui_switch",
         "z": "54c3831cbf893e20",
+        "g": "048257b506051cba",
         "name": "",
         "label": "<font size =5 color=white><b>Aut / Man</b>",
         "tooltip": "",
@@ -1551,6 +1544,7 @@
         "id": "b4c03bbd30d14a2e",
         "type": "ui_slider",
         "z": "54c3831cbf893e20",
+        "g": "048257b506051cba",
         "name": "",
         "label": "slider",
         "tooltip": "",
@@ -1576,6 +1570,7 @@
         "id": "eb58b923a30b5a2e",
         "type": "ui_numeric",
         "z": "54c3831cbf893e20",
+        "g": "048257b506051cba",
         "name": "",
         "label": "Set Point",
         "tooltip": "",
@@ -1602,6 +1597,7 @@
         "id": "11d6860a0fb6a824",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
         "group": "90a070d401514c3f",
         "order": 2,
         "width": 0,
@@ -1619,6 +1615,7 @@
         "id": "6d7c87cc12ac689a",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
         "group": "90a070d401514c3f",
         "order": 3,
         "width": 0,
@@ -1636,6 +1633,7 @@
         "id": "59be5637a49ce5eb",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
         "group": "90a070d401514c3f",
         "order": 4,
         "width": 0,
@@ -1653,6 +1651,7 @@
         "id": "5cd15c50894a0f7e",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "867534824f894142",
         "group": "90a070d401514c3f",
         "order": 1,
         "width": 0,
@@ -1670,6 +1669,7 @@
         "id": "6788c24324875558",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "group": "f7eb7770e583a77f",
         "order": 13,
         "width": 2,
@@ -1687,6 +1687,7 @@
         "id": "9ad9a97421ced395",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "group": "f7eb7770e583a77f",
         "order": 5,
         "width": 2,
@@ -1704,6 +1705,7 @@
         "id": "ce191898a6b92afb",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "group": "f7eb7770e583a77f",
         "order": 1,
         "width": 2,
@@ -1721,6 +1723,7 @@
         "id": "a9725c3f200e4a25",
         "type": "ui_text",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "group": "f7eb7770e583a77f",
         "order": 9,
         "width": 2,
@@ -1738,6 +1741,7 @@
         "id": "f4d3958c8c5e956f",
         "type": "ui_gauge",
         "z": "54c3831cbf893e20",
+        "g": "c82b0705e286c4ac",
         "name": "",
         "group": "77c6bf0a1df964d4",
         "order": 1,
@@ -1784,8 +1788,8 @@
         "seg1": "60",
         "seg2": "80",
         "className": "",
-        "x": 905,
-        "y": 180,
+        "x": 865,
+        "y": 160,
         "wires": [],
         "l": false
     },
@@ -1793,6 +1797,7 @@
         "id": "98e7d1786168939d",
         "type": "ui_chart",
         "z": "54c3831cbf893e20",
+        "g": "95536f254ef905aa",
         "name": "",
         "group": "4d3eb54e4f4f04aa",
         "order": 1,
@@ -1858,6 +1863,7 @@
         "id": "e65998dcfad76311",
         "type": "ui_led",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "order": 3,
         "group": "f7eb7770e583a77f",
         "width": 2,
@@ -1889,6 +1895,7 @@
         "id": "d50428544656794c",
         "type": "ui_led",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "order": 11,
         "group": "f7eb7770e583a77f",
         "width": 2,
@@ -1920,6 +1927,7 @@
         "id": "8f7b6eb978361656",
         "type": "ui_led",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "order": 7,
         "group": "f7eb7770e583a77f",
         "width": 2,
@@ -1951,6 +1959,7 @@
         "id": "8fec6f8828cbe859",
         "type": "ui_led",
         "z": "54c3831cbf893e20",
+        "g": "62d111d3e079a8fd",
         "order": 15,
         "group": "f7eb7770e583a77f",
         "width": 2,
@@ -1982,6 +1991,7 @@
         "id": "4644c4a28df321ed",
         "type": "event",
         "z": "54c3831cbf893e20",
+        "g": "c82b0705e286c4ac",
         "name": "",
         "controlTopic": "control",
         "startCmd": "start",
@@ -2008,6 +2018,7 @@
         "id": "2fcf21ec5699a6e4",
         "type": "random",
         "z": "54c3831cbf893e20",
+        "g": "c82b0705e286c4ac",
         "name": "",
         "low": 1,
         "high": "100",
@@ -2264,6 +2275,7 @@
         "id": "fa7b9ec2da0e7bd3",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "c4840d9eee370cc0",
         "name": "",
         "group": "08b2a710dc7a5bed",
         "order": 1,
@@ -2292,6 +2304,7 @@
         "id": "adada75a9119c9aa",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "c4840d9eee370cc0",
         "name": "",
         "group": "08b2a710dc7a5bed",
         "order": 2,
@@ -2320,6 +2333,7 @@
         "id": "6e912d681d550f63",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "c4840d9eee370cc0",
         "name": "",
         "group": "08b2a710dc7a5bed",
         "order": 3,
@@ -2348,6 +2362,7 @@
         "id": "b3047d8827d8459e",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "c4840d9eee370cc0",
         "name": "",
         "group": "08b2a710dc7a5bed",
         "order": 4,
@@ -2376,6 +2391,7 @@
         "id": "791c2f51a73e14e4",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "6320b49e866c1bc4",
         "name": "",
         "group": "698560b55b175a4a",
         "order": 1,
@@ -2404,6 +2420,7 @@
         "id": "c99d482e83545cc5",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "6320b49e866c1bc4",
         "name": "",
         "group": "698560b55b175a4a",
         "order": 2,
@@ -2432,6 +2449,7 @@
         "id": "3494396ad4e0ea27",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "6320b49e866c1bc4",
         "name": "",
         "group": "698560b55b175a4a",
         "order": 3,
@@ -2460,6 +2478,7 @@
         "id": "1c420b6a786da00a",
         "type": "ui_button",
         "z": "7bfb5efdf86b8035",
+        "g": "6320b49e866c1bc4",
         "name": "",
         "group": "698560b55b175a4a",
         "order": 4,
@@ -2488,6 +2507,7 @@
         "id": "8bfe9f32f10b103a",
         "type": "ui_switch",
         "z": "7bfb5efdf86b8035",
+        "g": "6319d64019da9376",
         "name": "",
         "label": "<font size =5 color=white><b>Aut / Man</b>",
         "tooltip": "",
@@ -2520,6 +2540,7 @@
         "id": "863ac671e7e997a4",
         "type": "ui_slider",
         "z": "7bfb5efdf86b8035",
+        "g": "6319d64019da9376",
         "name": "",
         "label": "slider",
         "tooltip": "",
@@ -2545,6 +2566,7 @@
         "id": "751a61b8a29505d9",
         "type": "ui_numeric",
         "z": "7bfb5efdf86b8035",
+        "g": "6319d64019da9376",
         "name": "",
         "label": "Set Point",
         "tooltip": "",
@@ -2571,6 +2593,7 @@
         "id": "13b20ef0d04b293c",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
         "group": "19dac09a655d1c2b",
         "order": 2,
         "width": 0,
@@ -2588,6 +2611,7 @@
         "id": "286385f03b98a01d",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
         "group": "19dac09a655d1c2b",
         "order": 3,
         "width": 0,
@@ -2605,6 +2629,7 @@
         "id": "87f5742752401efd",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
         "group": "19dac09a655d1c2b",
         "order": 4,
         "width": 0,
@@ -2622,6 +2647,7 @@
         "id": "b0fc6140ae242bbb",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "a5107081bf1b91c7",
         "group": "19dac09a655d1c2b",
         "order": 1,
         "width": 0,
@@ -2639,6 +2665,7 @@
         "id": "e8e1e4aa302210d4",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "group": "b7a0275975da3cea",
         "order": 5,
         "width": 2,
@@ -2656,6 +2683,7 @@
         "id": "c6ad9d65af0f8cf6",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "group": "b7a0275975da3cea",
         "order": 8,
         "width": 2,
@@ -2673,6 +2701,7 @@
         "id": "3521b50d47411a51",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "group": "b7a0275975da3cea",
         "order": 7,
         "width": 2,
@@ -2690,6 +2719,7 @@
         "id": "895bd95a54689606",
         "type": "ui_text",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "group": "b7a0275975da3cea",
         "order": 6,
         "width": 2,
@@ -2707,6 +2737,7 @@
         "id": "d936a881da07fd86",
         "type": "ui_gauge",
         "z": "7bfb5efdf86b8035",
+        "g": "06b5905af8c48d76",
         "name": "",
         "group": "93f9829fe2fa87a6",
         "order": 1,
@@ -2762,6 +2793,7 @@
         "id": "c0d25faf5f454ccf",
         "type": "ui_chart",
         "z": "7bfb5efdf86b8035",
+        "g": "b556a929461ad57c",
         "name": "",
         "group": "93f9829fe2fa87a6",
         "order": 6,
@@ -2827,6 +2859,7 @@
         "id": "5fc653ca5d41bb80",
         "type": "ui_led",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "order": 1,
         "group": "b7a0275975da3cea",
         "width": 2,
@@ -2858,6 +2891,7 @@
         "id": "c291ab80c0462f1c",
         "type": "ui_led",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "order": 3,
         "group": "b7a0275975da3cea",
         "width": 2,
@@ -2889,6 +2923,7 @@
         "id": "2754dbcb710599d7",
         "type": "ui_led",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "order": 2,
         "group": "b7a0275975da3cea",
         "width": 2,
@@ -2920,6 +2955,7 @@
         "id": "b00a53268657ead7",
         "type": "ui_led",
         "z": "7bfb5efdf86b8035",
+        "g": "7a2f010afda50987",
         "order": 4,
         "group": "b7a0275975da3cea",
         "width": 2,
@@ -2951,6 +2987,7 @@
         "id": "5abfa59e9cae5e19",
         "type": "event",
         "z": "7bfb5efdf86b8035",
+        "g": "06b5905af8c48d76",
         "name": "",
         "controlTopic": "control",
         "startCmd": "start",
@@ -2977,6 +3014,7 @@
         "id": "7f155dec0eaaf59d",
         "type": "random",
         "z": "7bfb5efdf86b8035",
+        "g": "06b5905af8c48d76",
         "name": "",
         "low": 1,
         "high": "100",
