@@ -919,86 +919,6 @@
         "className": ""
     },
     {
-        "id": "f967f10aec5e0bd3",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 2,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "4357d2b62df4f2ea",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "a12c74058457ac91",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 6,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "05581dc73159aa40",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 8,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "f7be30bf49b48336",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 10,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "5ff0ecb7fc411d01",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 12,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "6cec397475d36bb4",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 14,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "e0082721be4b616d",
-        "type": "ui_spacer",
-        "z": "54c3831cbf893e20",
-        "name": "spacer",
-        "group": "f7eb7770e583a77f",
-        "order": 16,
-        "width": 2,
-        "height": 1
-    },
-    {
         "id": "5134e3e67a5f447f",
         "type": "ui_spacer",
         "z": "54c3831cbf893e20",
@@ -1036,6 +956,96 @@
         "group": "93f9829fe2fa87a6",
         "order": 5,
         "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a645ab0a3dccf586",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "072e70f8886d1a33",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "3c01f42a262c350e",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 2,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "f7c98ecd552eedb2",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "6fedcbdee5a6112b",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 6,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "f13c4d1eb21a6fb3",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 8,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "d8f2f80a59dc56db",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 10,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "deac36c2c53122ce",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 12,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "7e3e28e9deaf9fdb",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 14,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "f78c86c44ac4ebd9",
+        "type": "ui_spacer",
+        "z": "54c3831cbf893e20",
+        "name": "spacer",
+        "group": "f7eb7770e583a77f",
+        "order": 16,
+        "width": 2,
         "height": 1
     },
     {
@@ -1549,7 +1559,7 @@
         "label": "slider",
         "tooltip": "",
         "group": "072e70f8886d1a33",
-        "order": 2,
+        "order": 4,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -1844,7 +1854,7 @@
         "z": "54c3831cbf893e20",
         "group": "072e70f8886d1a33",
         "name": "",
-        "order": 4,
+        "order": 5,
         "width": 0,
         "height": 0,
         "format": "<div ng-bind-html=\"msg.payload\"></div>\n<style>\n.nr-dashboard-theme .nr-dashboard-button .md-button {\nbackground-color: #3bac6c;\nborder-radius: 10px;\ncolor: white;\nwidth: 70%;\nheight:70%;\nmargin-left: 15%;\n}\n\n\n.nr-dashboard-theme ui-card-panel {\nborder : none ;\nborder-radius: 10px;\n}\n\nbody.nr-dashboard-theme md-toolbar {\nbackground-color: rgb(121 138 165);\n}\n\ndiv.led_186.led_contents {\nmin-height: 40px;\nmin-width: 40px;\nheight: 40px;\nwidth: 40px;\nmax-height: 40px;\nmax-width: 40px;\ntext-align: center;\nmargin: 11px;\nborder-radius: 50%;\n}\n\nbody.nr-dashboard-theme {\nbackground-color: #a8c1c2bd;\n\n}\n\nbody.nr-dashboard-theme md-content md-card {\nborder-radius: 10px;\n\n}\n\n</style>",
@@ -2840,7 +2850,7 @@
         "z": "7bfb5efdf86b8035",
         "group": "072e70f8886d1a33",
         "name": "",
-        "order": 5,
+        "order": 6,
         "width": 0,
         "height": 0,
         "format": "<div ng-bind-html=\"msg.payload\"></div>\n<style>\n.nr-dashboard-theme .nr-dashboard-button .md-button {\nbackground-color: #3bac6c;\nborder-radius: 10px;\ncolor: white;\nwidth: 70%;\nheight:70%;\nmargin-left: 15%;\n}\n\n\n.nr-dashboard-theme ui-card-panel {\nborder : none ;\nborder-radius: 10px;\n}\n\nbody.nr-dashboard-theme md-toolbar {\nbackground-color: rgb(121 138 165);\n}\n\ndiv.led_186.led_contents {\nmin-height: 40px;\nmin-width: 40px;\nheight: 40px;\nwidth: 40px;\nmax-height: 40px;\nmax-width: 40px;\ntext-align: center;\nmargin: 11px;\nborder-radius: 50%;\n}\n\nbody.nr-dashboard-theme {\nbackground-color: #a8c1c2bd;\n\n}\n\nbody.nr-dashboard-theme md-content md-card {\nborder-radius: 10px;\n\n}\n\ncircle {\nfill: #1c87c9;\n}\n</style>",
